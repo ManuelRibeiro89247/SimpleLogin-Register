@@ -1,7 +1,7 @@
 <?php
 
 define('DBSERVER', 'localhost'); 
-define('DBPASSWORD', 'ruguinhas'); 
+define('DBPASSWORD', ''); 
 define('DBUSERNAME','root');
 define('DBNAME', 'schema_user'); 
 
