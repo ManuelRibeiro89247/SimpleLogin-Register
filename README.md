@@ -13,7 +13,7 @@ confirmpassword: filled, same as password.
 
 # Register Page
 
-<red>default</red>
+**default**
 
 ![image](https://github.com/ManuelRibeiro89247/SimpleLogin-Register/assets/61391856/3c974708-0369-42d8-bc4d-e95fda484ca7)
 
@@ -63,11 +63,7 @@ confirmpassword: filled, same as password.
 
 all four users created using the HTML/PHP Registration form (password stored as hash for security reasons)
 
-![Uploading image.png…]()
+![image](https://github.com/ManuelRibeiro89247/SimpleLogin-Register/assets/61391856/84193b1f-3eff-4438-a016-258a614d7c59)
 
-<style>
-red {
-  color: red;
-}
 
 
