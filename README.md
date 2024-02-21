@@ -5,11 +5,11 @@ Simple Login/Register webpage using HTML/CSS (mostly Bootstrap), PHP and MySQL.
 
 username: filled.
 
-email:filled, valid email; not already in use.
+email: filled, valid email; not already in use.
 
-password:filled, more than 8 characters.
+password: filled, more than 8 characters.
 
-confirmpassword:filled, same as password.
+confirmpassword: filled, same as password.
 
 ## Register Page
 
