@@ -57,7 +57,7 @@ confirmpassword: filled, same as password.
 
 -----------------------------------------------**no user with this email**-----------------------------------------------
 
-![image](https://github.com/ManuelRibeiro89247/SimpleLogin-Register/assets/61391856/e614d9fa-42a3-40bd-9900-d43d5e39b3a4)
+![image](https://github.com/ManuelRibeiro89247/SimpleLogin-Register/assets/61391856/215fe44f-8d42-49ab-b5c4-47872e81813a)
 
 # MySQL database
 
