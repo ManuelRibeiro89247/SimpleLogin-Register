@@ -1,5 +1,5 @@
 # SimpleLogin-Register
-Simple Login/Register webpage using HTML/CSS (mostly Bootstrap), PHP and MySQL.
+Simple Login/Register webpage using HTML/CSS (mostly Bootstrap), PHP and MySQL tested using localhost
 
 ## Conditions
 
