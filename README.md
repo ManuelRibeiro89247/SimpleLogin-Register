@@ -11,7 +11,7 @@ password: filled, more than 8 characters.
 
 confirmpassword: filled, same as password.
 
-## Register Page
+# Register Page
 
 **default**
 
@@ -41,7 +41,7 @@ confirmpassword: filled, same as password.
 
 ![image](https://github.com/ManuelRibeiro89247/SimpleLogin-Register/assets/61391856/8347fbdb-3a44-4125-8174-56ffbadb7dee)
 
-## Login Page
+# Login Page
 
 **default**
 
@@ -59,7 +59,7 @@ confirmpassword: filled, same as password.
 
 ![image](https://github.com/ManuelRibeiro89247/SimpleLogin-Register/assets/61391856/e614d9fa-42a3-40bd-9900-d43d5e39b3a4)
 
-## MySQL database
+# MySQL database
 
 all four users created using the HTML/PHP Registration form (password stored as hash for security reasons)
 
