@@ -13,7 +13,7 @@ confirmpassword: filled, same as password.
 
 # Register Page
 
-- **default**
++ **default**
 
 ![image](https://github.com/ManuelRibeiro89247/SimpleLogin-Register/assets/61391856/3c974708-0369-42d8-bc4d-e95fda484ca7)
 
